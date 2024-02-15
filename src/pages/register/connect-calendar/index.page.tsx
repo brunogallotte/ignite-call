@@ -24,7 +24,7 @@ export default function ConnectCalendar() {
   return (
     <>
       <NextSeo title="Conecte sua agenda do google | Ignite call" noindex />
-      
+
       <Container>
         <Header>
           <Heading as="strong">Conecte sua agenda!</Heading>
